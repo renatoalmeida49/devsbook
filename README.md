@@ -32,10 +32,11 @@ class Usuario extends Model {
 }
 ```
 
-Projeto do curso phpzeroaoprofissional.
-WAMPServer 3.2.0 {
-  php: 7.3.12
-  apache: 2.4.41
+### Projeto do curso phpzeroaoprofissional.
+
+WAMPServer 3.2.0 {  
+  php: 7.3.12  
+  apache: 2.4.41  
   phpmyadmin: 4.9.2
 }
 
